@@ -1,0 +1,28 @@
+{
+    "name": "events-binding",
+    "version": "0.1.0",
+    "homepage": "https://github.com/macpie/events-binding",
+    "description": "EventEmitter with amqp style binding for messages",
+    "main": "./lib/events-binding.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/macpie/events-binding.git"
+    },
+    "keywords": [
+        "events",
+        "binding",
+        "event",
+        "amqp",
+        "listener",
+        "emit",
+        "on",
+        "off"
+    ],
+    "author": "Peter Defebvre",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/macpie/events-binding/issues"
+    },
+    "dependencies": {},
+    "engine": "node >= 0.10.0"
+}
