@@ -3,6 +3,8 @@ events-binding
 
 EventEmitter with amqp style binding for messages
 
+https://www.npmjs.org/package/events-binding
+
 ```javascript
 var Events = require('events-binding');
 
