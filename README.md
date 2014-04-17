@@ -4,7 +4,7 @@ events-binding
 EventEmitter with amqp style binding for messages
 
 ```javascript
-var Events = require('../lib/events-binding');
+var Events = require('events-binding');
 
 var events = new Events();
 
